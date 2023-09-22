@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  ✨NH투자증권✨이 목표인 개발 못하는 유사 개발자 김병하의 GitHub
+<p style="font-size:20px">✨NH투자증권✨</p>이 목표인 개발 못하는 유사 개발자 김병하의 GitHub
 </div>
 
 <div align="center">
