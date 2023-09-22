@@ -1,6 +1,6 @@
 
 
-### :ambulance: ✨NH투자증권✨이 목표인 개발 못하는 유사 개발자 김병하의 GitHub
+###            ✨NH투자증권✨이 목표인 개발 못하는 유사 개발자 김병하의 GitHub
 
 <div align="center">
   <h2>Activity</h2>
@@ -9,9 +9,9 @@
   
   2023.06 ~ 2023.08&nbsp;&nbsp;&nbsp;&nbsp;하이투자증권 서포터즈 및 알고리즘 투자 대회
 
-  2023.09.01 ~ &nbsp;&nbsp;&nbsp;&nbsp;Tmax AI Bigdata Academy(TABA) 4기
+  2023.09.01 ~&nbsp;&nbsp;&nbsp;&nbsp;Tmax AI Bigdata Academy(TABA) 4기
 
-  2023.09.18 ~ &nbsp;&nbsp;&nbsp;&nbsp;두나무(업비트) 서포터즈(UP!TO) 2기
+  2023.09.18 ~&nbsp;&nbsp;&nbsp;&nbsp;두나무(업비트) 서포터즈(UP!TO) 2기
 
   2023.09.20&nbsp;&nbsp;&nbsp;&nbsp;단국대학교 혁신 기업 취업설계 경진대회 우수상 (NH투자증권)
   
