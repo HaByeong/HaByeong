@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h2>Activity</h2>
+  <h2 style="color:blue;">Activity</h2>
 
   2022.12 ~ 2023.02&nbsp;&nbsp;&nbsp;&nbsp;신한투자증권 프로디지털 아카데미 1기 
   
@@ -20,7 +20,7 @@
 
 </div>
 
-<div align=center><h2>📑 Certificate </h2>
+<div align=center><h2 style="color:blue;">📑 Certificate </h2>
 
 정보처리기능사(2018.04)
 
