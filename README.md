@@ -46,7 +46,7 @@
     
 - **[ 신한투자증권 MTS 개선 프로젝트 ](https://github.com/HaByeong/shinhan-alpha)**
     
-    신한투자증권에서 Django, Vue.js 를 이용하여 모의 투자 MTS(모바일트레이딩시스템)를 개선해 보고, 주린이를 위한 주린이 서비스를 추가해보았다.
+    신한투자증권에서 Django, Vue.js 를 이용하여 모의 투자 MTS(모바일트레이딩시스템) UX/UI를 개선해 보고, 주린이를 위한 주린이 서비스를 추가해보았다.
     
     기술스택 : Django, vue.js, docker, google cloud
 
