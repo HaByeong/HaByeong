@@ -59,7 +59,11 @@
     
     기술스택 : Django, vue.js, docker, google cloud
 
+- **[ 데이트 코스 추천 챗봇 및 플랫폼(러브 시나리오) ](https://github.com/orgs/TABA4-2/repositories)**
 
+    TABA 4기에서 GPT API를 이용하여 데이트 코스 추천 챗봇 및 캘린더 커뮤니티 서비스를 추가한 플랫폼을 만들어 보았다.
+
+    기술스택 : Java, Tibero, aws
     
 </div>
 
