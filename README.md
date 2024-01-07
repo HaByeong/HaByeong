@@ -66,7 +66,6 @@
 
 
 ## **Baekjoon**
-    <a href="s">
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhschris8080)](https://solved.ac/jhschris8080)
 
 영차 영차 ~ !!
