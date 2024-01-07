@@ -65,7 +65,7 @@
     기술스택 : Java, Spring Boot, Flutter, Tibero, AWS
 
 
-## **Baekjoon**
+## **💯 Baekjoon**
 
 ---
     
