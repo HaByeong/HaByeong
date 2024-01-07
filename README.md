@@ -48,7 +48,6 @@
 [https://hanyang-aby.tistory.com](https://hanyang-aby.tistory.com/)
 
 
-
 ## **🎁 Project**
 
 ---
@@ -64,7 +63,13 @@
     TABA 4기에서 GPT API를 이용하여 데이트 코스 추천 챗봇 및 캘린더 커뮤니티 서비스를 추가한 플랫폼을 만들어 보았다.
 
     기술스택 : Java, Spring Boot, Flutter, Tibero, AWS
-    
+
+
+## **Baekjoon**
+    <a href="s">
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhschris8080)](https://solved.ac/jhschris8080)
+
+영차 영차 ~ !!
 </div>
 
 
