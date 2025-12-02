@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<h1><font color="green">NH투자증권</font></h1>을 목표로 하는 김병하의 GitHub
+<h1><font color="green">증권사</font></h1>를 목표로 하는 김병하의 GitHub
 </div>
   
 ## 👦 Profile
@@ -42,7 +42,7 @@
 ---
 
 - 제3회 금융 데이터 활용 아이디어 경진대회 본선 (2023)
-- 2023학년도 단국 혁신 기업 취업설계 경진대회 우수상 수상 (NH투자증권 분석)
+- 2023학년도 단국 혁신 기업 취업설계 경진대회 우수상 수상
 
 
 ## 📝 Blog
