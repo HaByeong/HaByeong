@@ -28,7 +28,6 @@
 ---
 
 - CFA Program Level I passed (2026.06)
-<img width="90" alt="CFA Level I 뱃지" src="https://github.com/user-attachments/assets/0307d3e4-3b3d-4dc3-92d7-72163d8e99ca" />
 - 금융투자분석사 (2024.08)
 - SQLD - SQL 개발자 (2024.04)
 - 투자자산운용사 (2023.06)
