@@ -10,7 +10,7 @@
 
 - 👶 99년 02월 25일 출생
 - 🏫 약사고등학교 졸업 (2015.03 ~ 2018.02)
-- 👨‍🎓 단국대학교 모바일시스템공학과 졸업 (2022.03 ~ 2026.12)
+- 👨‍🎓 단국대학교 모바일시스템공학과 재학 (2022.03 ~ 2026.12)
 
 ## 🎞 Career
 
@@ -28,13 +28,10 @@
 ---
 
 - CFA Program Level I passed (2026.06)
+<img width="90" alt="CFA Level I 뱃지" src="https://github.com/user-attachments/assets/0307d3e4-3b3d-4dc3-92d7-72163d8e99ca" />
 - 금융투자분석사 (2024.08)
 - SQLD - SQL 개발자 (2024.04)
 - 투자자산운용사 (2023.06)
-
-<div align="center">
-  <img width="130" alt="CFA Level I 뱃지" src="https://github.com/user-attachments/assets/0307d3e4-3b3d-4dc3-92d7-72163d8e99ca" />
-</div>
 
 ## 🏆 Prize
 
